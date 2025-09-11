@@ -1,8 +1,10 @@
 ---
-date: '2025-09-10T17:51:26-05:00'
-draft: true
-title: 'Hello World'
+date: 2025-09-11T13:45:00Z
+draft: false
+title: "Welcome to My Blog"
 ---
+
+This is the first post on my new Hugo blog. I'm excited to share my thoughts and experiences with you.
 
 ## Getting Started
 
