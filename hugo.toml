@@ -1,6 +1,17 @@
 baseURL = "https://jonathandavidson.info/"
 languageCode = "en-us"
 title = "JonathanDavidson.info"
+
 [module]
   [[module.imports]]
     path = "github.com/imfing/hextra"
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Blog'
+    pageRef = '/blog'
+    weight = 20
