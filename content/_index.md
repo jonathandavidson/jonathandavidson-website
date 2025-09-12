@@ -14,7 +14,8 @@ title: 'Solving Real World Problems using Cutting Edge Technology'
 {{< hextra/hero-button link="docs" text="Get Started" >}}
 </div>
 
-<div class="hx:mt-6"></div>
+<div class="hx:mb-10"></div>
+<hr/>
 
 {{< cards >}}
   {{< card link="/" title="Custom Software Solutions" image="images/home-code.png" subtitle="From design to implementation to deployment, your ideas coming to life">}}{{< card link="/" title="Professionally Architected Solutions" image="/images/home-arch-diagram.png" subtitle="Forward thinking cloud native design, with scalability and security in mind" >}}
