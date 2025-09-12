@@ -6,6 +6,11 @@ title = "JonathanDavidson.info"
   [[module.imports]]
     path = "github.com/imfing/hextra"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menus]
   [[menus.main]]
     name = 'Home'
