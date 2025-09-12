@@ -4,15 +4,7 @@ draft: true
 title: 'Hello World'
 ---
 
-## Getting Started
+## Hi There
 
-Hugo makes it easy to create a beautiful website with minimal effort. This is my first post, and I'm looking forward to writing more content in the future.
+$$F(\omega) = \int_{-\infty}^{\infty} f(t)\, e^{-j \omega t} \, dt$$
 
-### Features of Hugo
-
-- Fast building times
-- Easy customization
-- Great for blogs and documentation
-- Supports multiple content types
-
-I hope you enjoy reading my blog posts!

@@ -1,10 +1,8 @@
 ---
 date: '2025-09-10T17:51:26-05:00'
 draft: true
-title: 'Bio'
+title: 'Jonathan Davidson'
 ---
-
-## Jonathan Davidson
 
 Jonathan is a software development professional and experienced tech leader with over 16 years of experience delivering high quality distributed applications. He has built solutions across a number of verticals including real estate, medical device tech and financial services. His work conforms to the highest standards, meeting compliance and regulatory requirements.
 
@@ -20,59 +18,61 @@ He is consistently chosen to represent teams as an internal or external customer
 
 ### Skills and Capabilities
 
-This is by no means an exhaustive list! Just some of the most popular and most recent.
+{{< callout type="info" >}}
+  **This is by no means an exhaustive list!** Just some of the most popular and most recent.
+{{< /callout >}}
 
 __Technical Skills__
-{{< badge content="Technical Discovery" >}}
-{{< badge content="Solutions Architecture" >}}
-{{< badge content="Software Development" >}}
-{{< badge content="Software Architecture" >}}
-{{< badge content="Microservices Architecture" >}}
-{{< badge content="RESTful APIs" >}}
-{{< badge content="GraphQL" >}}
-{{< badge content="Frontend" >}}
-{{< badge content="Backend" >}}
-{{< badge content="Cloud Native" >}}
-{{< badge content="AI Driven Development" >}}
+{{< badge content="Technical Discovery" color="purple">}}
+{{< badge content="Solutions Architecture" color="purple">}}
+{{< badge content="Software Development" color="purple">}}
+{{< badge content="Software Architecture" color="purple">}}
+{{< badge content="Microservices Architecture" color="purple">}}
+{{< badge content="RESTful APIs" color="purple">}}
+{{< badge content="GraphQL" color="purple">}}
+{{< badge content="Frontend" color="purple">}}
+{{< badge content="Backend" color="purple">}}
+{{< badge content="Cloud Native" color="purple">}}
+{{< badge content="AI Driven Development" color="purple">}}
 
 __Programming Languages__
-{{< badge content="Python" >}}
-{{< badge content="Java" >}}
-{{< badge content="NodeJS" >}}
-{{< badge content="JavaScript" >}}
-{{< badge content="TypeScript" >}}
-{{< badge content="PHP" >}}
+{{< badge content="Python" color="indigo">}}
+{{< badge content="Java" color="indigo">}}
+{{< badge content="NodeJS" color="indigo">}}
+{{< badge content="JavaScript" color="indigo">}}
+{{< badge content="TypeScript" color="indigo">}}
+{{< badge content="PHP" color="indigo">}}
 
 __Libraries & Frameworks__
-{{< badge content="Django" >}}
-{{< badge content="Spring Boot" >}}
-{{< badge content="ExpressJS" >}}
-{{< badge content="NestJS" >}}
-{{< badge content="React" >}}
-{{< badge content="React Native" >}}
+{{< badge content="Django" color="blue">}}
+{{< badge content="Spring Boot" color="blue">}}
+{{< badge content="ExpressJS" color="blue">}}
+{{< badge content="NestJS" color="blue">}}
+{{< badge content="React" color="blue">}}
+{{< badge content="React Native" color="blue">}}
 
 __Data__
-{{< badge content="SQL" >}}
-{{< badge content="Oracle" >}}
-{{< badge content="MySQL" >}}
-{{< badge content="NoSQL" >}}
-{{< badge content="MongoDB" >}}
-{{< badge content="DynamoDB" >}}
-{{< badge content="AWS Neptune" >}}
-{{< badge content="Gremlin" >}}
+{{< badge content="SQL" color="amber">}}
+{{< badge content="Oracle" color="amber">}}
+{{< badge content="MySQL" color="amber">}}
+{{< badge content="NoSQL" color="amber">}}
+{{< badge content="MongoDB" color="amber">}}
+{{< badge content="DynamoDB" color="amber">}}
+{{< badge content="AWS Neptune" color="amber">}}
+{{< badge content="Gremlin" color="amber">}}
 
 __Cloud Native__
-{{< badge content="AWS EC2" >}}
-{{< badge content="AWS ECS" >}}
-{{< badge content="AWS Lambda" >}}
+{{< badge content="AWS EC2" color="orange">}}
+{{< badge content="AWS ECS" color="orange">}}
+{{< badge content="AWS Lambda" color="orange">}}
 
 ### Education & Certifications
 
 __AWS__
-{{< badge content="Certified Solutions Architect" >}}
+{{< badge content="Certified Solutions Architect" color="yellow">}}
 
 __ITIL__
-{{< badge content="Foundations Certificate - ITSM" >}}
+{{< badge content="Foundations Certificate - ITSM" color="yellow">}}
 
 __University of North Texas__
-{{< badge content="BBA - Finance" >}}
+{{< badge content="BBA - Finance" color="green">}}
