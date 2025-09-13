@@ -20,7 +20,16 @@ title = "JonathanDavidson.info"
     name = 'Bio'
     pageRef = '/bio'
     weight = 20
+  # [[menus.main]]
+  #   name = 'Blog'
+  #   pageRef = '/blog'
+  #   weight = 30
   [[menus.main]]
-    name = 'Blog'
-    pageRef = '/blog'
-    weight = 30
+    name = 'Contact'
+    pageRef = '/contact'
+    weight = 40
+
+[params]
+  [params.navbar]
+    [params.navbar.logo]
+      link = '/'

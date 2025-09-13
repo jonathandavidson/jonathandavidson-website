@@ -11,7 +11,7 @@ title: 'Solving Real World Problems using Cutting Edge Technology'
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-button link="docs" text="Get Started" >}}
+{{< hextra/hero-button link="/contact" text="Get Started" >}}
 </div>
 
 <div class="hx:mb-10"></div>
