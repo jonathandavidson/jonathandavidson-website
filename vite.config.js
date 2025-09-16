@@ -5,11 +5,13 @@ export default defineConfig({
   root: 'js',
   plugins: [preact()],
   build: {
-    outDir: '../assets/js/',
+    outDir: '../assets/js/dist',
     emptyOutDir: true,
-    assetsDir: 'dist',
     rollupOptions: {
-      input: 'js/contact-form.jsx'
+      input: 'js/contact-form.jsx',
+      output: {
+        entryFileNames: '[name].js',
+      }
     },
   }
 });
