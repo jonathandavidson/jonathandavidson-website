@@ -2,7 +2,3 @@
 .hugo_build.lock
 public/
 resources/_gen/
-/assets/js/dist/
-
-# Node modules
-node_modules/
