@@ -2,14 +2,14 @@ import { defineConfig } from 'vite';
 import preact from '@preact/preset-vite';
 
 export default defineConfig({
-  root: 'src',
+  root: 'js',
   plugins: [preact()],
   build: {
     outDir: '../assets/js/',
     emptyOutDir: true,
     assetsDir: 'dist',
     rollupOptions: {
-      input: 'src/contact-form.jsx'
+      input: 'js/contact-form.jsx'
     },
   }
 });
