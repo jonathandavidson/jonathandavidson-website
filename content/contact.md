@@ -4,4 +4,4 @@ draft: false
 title: "Get in Touch"
 ---
 
-
+{{< render-preact component="contact-form">}}

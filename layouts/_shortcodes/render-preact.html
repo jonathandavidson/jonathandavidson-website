@@ -1,0 +1,8 @@
+{{ $component := .Get "component" | default "main" }}
+{{ $jsfile := printf "js/dist/%s.js" $component }}
+<div id="hugo-app-preact-element__{{ $component }}"></div>
+{{ with resources.Get $jsfile }}
+  {{ with . | fingerprint "sha256" }}
+    <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+  {{ end }}
+{{ end }}
