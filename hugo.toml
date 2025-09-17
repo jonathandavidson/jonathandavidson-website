@@ -32,7 +32,6 @@ title = "JonathanDavidson.info"
   [params.navbar]
     [params.navbar.logo]
       path = 'images/jd-logo.svg'
-      link = '/'
   [params.footer]
     displayPoweredBy = false
     displayCopyright = true

@@ -1,10 +1,14 @@
 ---
 date: 2025-09-13T13:45:00Z
 draft: false
-title: "Get in Touch"
+title: "Contact"
 ---
 
-<div class="contact-form-container">
+## Let's get in touch.
+Connect with me on LinkedIn or use the form below to send me a quick message.
+
+
+<div class="hx:mt-6">
     <form action="https://formbold.com/s/3jK78" method="POST" class="contact-form">
         <div class="hx:mb-4">
             <label class="hx:block hx:mb-2 hx:text-sm hx:font-medium hx:text-gray-900 hx:dark:text-gray-300" for="name">Your name</label>
@@ -28,7 +32,7 @@ title: "Get in Touch"
                 aria-required="true"
             />
         </div>
-        <div class="hx:mb-4">
+        <div class="hx:mb-8">
             <label class="hx:block hx:mb-2 hx:text-sm hx:font-medium hx:text-gray-900 hx:dark:text-gray-300" for="message">Message</label>
             <textarea
               class="hx:focus:hextra-focus hx:block hx:w-full hx:appearance-none hx:rounded-lg hx:px-3 hx:py-2 hx:transition-colors hx:text-base hx:leading-tight hx:md:text-sm hx:bg-black/[.05] hx:dark:bg-gray-50/10 hx:focus:bg-white hx:dark:focus:bg-dark hx:placeholder:text-gray-500 hx:dark:placeholder:text-gray-400 hx:contrast-more:border hx:contrast-more:border-current"

@@ -1,10 +1,18 @@
 ---
 date: '2025-09-10T17:51:26-05:00'
 draft: false
-title: 'Jonathan Davidson'
+title: 'Bio'
 ---
 
-Jonathan is a software development professional and experienced tech leader with over 16 years of experience delivering high quality distributed applications. He has built solutions across a number of verticals including real estate, medical device tech and financial services. His work conforms to the highest standards, meeting compliance and regulatory requirements.
+{{< figure
+  src="/images/jonathan-profile.jpg"
+  alt="Jonathan Davidson"
+  class=""
+>}}
+
+## About Jonathan
+
+Jonathan Davidson is a software development professional and experienced tech leader with over 16 years of experience delivering high quality distributed applications. He has built solutions across a number of verticals including real estate, medical device tech and financial services. His work conforms to the highest standards, meeting compliance and regulatory requirements.
 
 ### Experience
 
