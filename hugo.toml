@@ -41,6 +41,7 @@ title = "JonathanDavidson.info"
       icon = 'linkedin'
 
 [params]
+  externalLinkDecoration = true
   [params.navbar]
     [params.navbar.logo]
       path = 'images/jd-logo.svg'
@@ -48,4 +49,4 @@ title = "JonathanDavidson.info"
     displayPoweredBy = false
     displayCopyright = true
   [params.theme]
-    default = 'light'
+    default = 'dark'
