@@ -1,6 +1,6 @@
 ---
 date: '2025-09-10T17:51:26-05:00'
-draft: true
+draft: false
 title: 'Solving Real World Problems using Cutting Edge Technology'
 ---
 <div class="hx:mt-6 hx:mb-6">
