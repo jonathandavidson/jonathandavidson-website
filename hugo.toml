@@ -19,10 +19,10 @@ title = "JonathanDavidson.info"
     name = 'Bio'
     pageRef = '/bio'
     weight = 20
-  # [[menus.main]]
-  #   name = 'Blog'
-  #   pageRef = '/blog'
-  #   weight = 30
+  [[menus.main]]
+    name = 'Blog'
+    pageRef = '/blog'
+    weight = 30
   [[menus.main]]
     name = 'Contact'
     pageRef = '/contact'
@@ -41,6 +41,7 @@ title = "JonathanDavidson.info"
       icon = 'linkedin'
 
 [params]
+  author = 'Jonathan Davidson'
   externalLinkDecoration = true
   [params.navbar]
     [params.navbar.logo]
