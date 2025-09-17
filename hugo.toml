@@ -27,6 +27,18 @@ title = "JonathanDavidson.info"
     name = 'Contact'
     pageRef = '/contact'
     weight = 40
+  [[menus.main]]
+    name = 'GitHub'
+    weight = 50
+    url = 'https://github.com/jonathandavidson'
+    [menus.main.params]
+      icon = 'github'
+  [[menus.main]]
+    name = 'LinkedIn'
+    weight = 60
+    url = 'https://www.linkedin.com/in/jonathan-davidson-9345279/'
+    [menus.main.params]
+      icon = 'linkedin'
 
 [params]
   [params.navbar]
