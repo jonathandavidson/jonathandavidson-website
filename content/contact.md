@@ -5,7 +5,7 @@ title: "Contact"
 ---
 
 ## Let's get in touch.
-I would love to hear from you! Whether it is just to connect, give feedback on my blog content or if you are interested in hiring me for your next project.
+I would love to hear from you! Whether it is just to connect, give feedback on my blog content or if you are interested in hiring me for your next project, let's get in touch.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jonathan-davidson-9345279/) or use the form below to send me a quick message.
     
