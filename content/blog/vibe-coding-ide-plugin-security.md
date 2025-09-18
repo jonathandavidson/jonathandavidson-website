@@ -7,6 +7,8 @@ tags: ['cybersecurity', 'vibe coding']
 categories: ['cybersecurity']
 ---
 
+![vibe-coding-security](malware-ide-plugin.png)
+
 With the growing rise in popularity of vibe coding, bad actors are now targeting a whole new inexperienced group of developers installing plugins for their IDEs. Installing in infected plugin can result in malicious code being executed on the victim's machine, which can result in any number of cyber attacks including additional malware being installed, loss of data, or the compromising of personal data or accounts.
 
 There has never been a more important time to get educated on these types of attacks and how to be vigilent about preventing them. Like other categories of cyber attacks, IDE plugin attacks capitalize on an unsuspecting user's careless habits and ignorance in trusting that the plugin they are downloading from the marketplace is secure.
@@ -24,4 +26,6 @@ Developers, especially those newer to vibe coding, can adopt several habits and 
 - **Limit Plugin Use**: Only install plugins genuinely necessary for development. The more plugins in use, the greater the chance for a security breach.
 - **Verify Code Signing & Source Integrity**: Ensure plugins are properly signed, and validate certificates whenever possible to guard against tampering and man-in-the-middle attacks.
 
-Taking these precautions helps defend against the growing threat landscape targeting IDE extensions and vibe coders. Security is not a one-time checklist; it's an ongoing habit of skepticism, vigilance, and informed decision-making. As AI-powered development continues to democratize coding, developers are responsible for staying educated and proactive—because real security comes from both great tools and awareness.
+Taking these precautions helps defend against the growing threat landscape targeting IDE extensions and vibe coders. Security is not a one-time checklist; it's an ongoing habit of skepticism, vigilance, and informed decision-making. As AI-powered development continues to democratize coding, developers are responsible for staying educated and proactive, because real security comes from both great tools and awareness.
+
+If you or someone you know could benefit from my services, [let's get in touch]({{% ref "/contact" %}}).
