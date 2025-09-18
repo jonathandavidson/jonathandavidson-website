@@ -46,3 +46,7 @@ params:
     displayCopyright: true
   theme:
     default: dark
+
+services:
+  googleAnalytics:
+    id: G-6ZK2N7PH22
