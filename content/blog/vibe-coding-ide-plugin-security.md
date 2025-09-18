@@ -2,8 +2,10 @@
 date: '2025-09-17T15:52:26-05:00'
 draft: false
 title: 'Protecting Yourself from Dangerous IDE Plugin Malware Attacks'
-author: 'Jonathan Davidson'
-tags: ['cybersecurity', 'vibe coding']
+authors:
+  - name: 'Jonathan Davidson'
+    link: '/bio'
+keywords: ['cybersecurity', 'vibe coding']
 categories: ['cybersecurity']
 ---
 

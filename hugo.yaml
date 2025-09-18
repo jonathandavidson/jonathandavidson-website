@@ -36,7 +36,9 @@ menus:
         icon: linkedin
 
 params:
-  author: Jonathan Davidson
+  authors:
+    - name: 'Jonathan Davidson'
+      link: '/bio'
   externalLinkDecoration: true
   navbar:
     logo:
